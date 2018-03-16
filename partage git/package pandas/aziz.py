@@ -13,7 +13,7 @@ import pylab as pl
 
 
 #Ouverture du fichier CSV
-df = pd.read_csv("SuperstoreSalesExcel.csv", sep=";", decimal=",");
+df = pd.read_csv("C:/Users/esic/Desktop/data/SuperstoreSalesExcel.csv",sep=";",decimal=",");
 #print(fichier)
 
 #informations sur le dataframe
